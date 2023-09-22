@@ -6,7 +6,7 @@ const audio = new Audio()
 audio.src = "toi_music.mp3"
 
 const now = new Date()
-const toiDay = new Date(2023,7,19,19,0,0)
+const toiDay = new Date(2023,8,28,19,0,0)
 updateCountDownTime()
 
 
